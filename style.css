@@ -23,7 +23,7 @@ position: relative;
   
   grid-template-columns: 1fr;
   grid-template-rows: auto;
-  margin: 0px auto;
+  margin: auto auto;
 }
 
 .box{
